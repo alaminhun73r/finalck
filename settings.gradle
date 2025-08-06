@@ -1,0 +1,2 @@
+rootProject.name = "ParentalApp"
+include ':app'
